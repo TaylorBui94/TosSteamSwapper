@@ -7,10 +7,15 @@ Modified version of the steam swapper to work with "Tree of Savior"
 :: The Batch File does this.
 
 :: 1. requests user input for which account
+
 :: 2. Closes Steam and TOS if they are open
+
 :: 3. Opens steam
+
 :: 4. Logs in
+
 :: 5. Starts TOS. 
+
 :: 6. The Script Pauses and starts at the beginning of the script on next key press
 
 :: There is some setup to do   
