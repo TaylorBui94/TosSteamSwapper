@@ -22,6 +22,7 @@ Modified version of the steam swapper to work with "Tree of Savior"
 
 :: 1. Right click SteamSwapper.bat -> "Create Shortcut"
 :: 2. Right click the shortcut-> property -> shortcut Tab -> advanced -> tick "run as administrator" -> ok -> ok
+
 :: 3. You will use the shortcut to open this file.
 
 
