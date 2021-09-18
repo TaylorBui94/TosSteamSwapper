@@ -34,6 +34,7 @@ Modified version of the steam swapper to work with "Tree of Savior"
 
 
 :: 3. replace Steam_ID_0 with the steam account you want to use.
+
 :: 4. Do this for as many of your accounts that u are using. 
 
 :: Setup 3
